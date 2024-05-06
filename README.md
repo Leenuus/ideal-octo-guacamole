@@ -26,6 +26,8 @@ mov byte [rdi], "*"
 
 ### PIE, position independent executable
 
+[Things on PIE](https://stackoverflow.com/questions/2463150/what-is-the-fpie-option-for-position-independent-executables-in-gcc-and-ld)
+
 [workaround](https://stackoverflow.com/questions/36007975/compile-error-relocation-r-x86-64-pc32-against-undefined-symbol)
 
 instead of
